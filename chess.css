@@ -1,0 +1,18 @@
+table{
+    border:1px groove rgb(114, 104, 104);
+    margin:100px auto;
+}
+td{
+    height:50px;
+    width:50px;
+}
+#white{
+    background:white;
+}
+#black{
+    background:black;
+}
+.special{
+    text-emphasis: none;
+    text-align: center;
+}
